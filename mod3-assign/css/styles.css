@@ -1,0 +1,44 @@
+body{
+	font-size: 16px;
+	background-color: grey !important;
+}
+#header-nav{
+	background-color: green;
+	border-radius: 0;
+	border: 0;
+	padding-bottom: 20px;
+
+}
+#nav-brand  h1{
+	color: #000;
+	padding: 0;
+	text-align: left;
+	margin-bottom: 20px;
+	margin-top: 0;
+}
+#nav-brand  a:hover, #nav-brand  a:focus{
+	text-decoration: none;
+
+}
+
+#nav-brand{
+	margin-bottom:30px;
+}
+
+navbar-brand{
+	padding-top: 25px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid orange;
+}
+
+#nav-list li{
+	text-align: center;
+	font-size: 2em;
+	color: yellow;
+}
+
+#nav-list li:hover, #nav-list li:focus{
+	background-color: #000;
+}
