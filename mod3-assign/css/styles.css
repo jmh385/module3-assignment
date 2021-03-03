@@ -73,6 +73,7 @@ navbar-brand{
 #main-text h1{
 	margin-bottom: 50px;
 	margin-top: 10px;
+	color: #000;
 }
 @media (max-width: 767px){
 	#main-text{
